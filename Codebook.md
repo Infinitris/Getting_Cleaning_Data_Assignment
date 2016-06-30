@@ -23,7 +23,7 @@ Obtained from [Human Activity Recognition Using Smartphones Data Set](http://arc
 
 1. Checks for any missing packages used in script and install them if not available.
 2. Loads the features, activities, training and test files.
-3. Decodes the activities in `y_train` and `x_train` using `activities_labels`.
+3. Decodes the activities in `y_train` and `y_test` using `activities_labels`.
 4. Merges the training data using `y_train`, `subject_train` and `x_train`.
 5. `Features` are loaded into training data as variable names of the measurements.
 6. Step 4 & 5 is done for test data using `y_test`, `subject_test` and `y_test` as well
