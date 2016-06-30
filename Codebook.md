@@ -12,7 +12,6 @@ Obtained from [Human Activity Recognition Using Smartphones Data Set](http://arc
 
 * __activity_labels.txt__ -> Text file contains labels for each activity. There are a total of 6 activities.
 * __features.txt__ -> All the measurement variable names
-* __features_info.txt__ -> Information on the measurements done for each subject and activity
 * __subject_train.txt__ -> The list of subject 
 * __X_train.txt__ -> Main bulk of training measurement data
 * __y_train.txt__ -> The list of activities by ID
